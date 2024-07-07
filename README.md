@@ -10,10 +10,10 @@ This Node.js Command Line Interface (CLI) application allows you to manage depar
 
 ## Installation
 
-1. Clone the repository
-    ```bash
-        git clone git@github.com:AJKaur02/Challenge-12-Employee-Tracker.git
-    cd Challenge-12-Employee-Tracker
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:AJKaur02/Challenge-12-Employee-Tracker.git
+   cd Challenge-12-Employee-Tracker
 
 2. Install dependencies:
    ```bash
@@ -87,20 +87,3 @@ This schema allows for organizing employees into departments, defining their rol
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Instructions:
-1. **Title and Description:** Replace "Employee Tracker CLI Application" with your application's name and provide a brief description of what it does.
-   
-2. **Features:** List key features of your application.
-
-3. **Installation:** Outline steps to clone, install dependencies, and set up the database.
-
-4. **Usage:** Provide instructions on how to use the application.
-
-5. **Dependencies:** List major dependencies and provide links to their npm pages.
-
-6. **Database Schema:** If applicable, describe your database schema or provide a diagram.
-
-7. **Contributing:** Guidelines for others who want to contribute to your project.
-
-8. **License:** Mention the license under which your project is distributed.

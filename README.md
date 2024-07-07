@@ -10,11 +10,10 @@ This Node.js Command Line Interface (CLI) application allows you to manage depar
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <git@github.com:AJKaur02/Challenge-12-Employee-Tracker.git>
-   cd employee-tracker
-   ```
+1. Clone the repository
+    ```bash
+        git clone git@github.com:AJKaur02/Challenge-12-Employee-Tracker.git
+    cd Challenge-12-Employee-Tracker
 
 2. Install dependencies:
    ```bash
